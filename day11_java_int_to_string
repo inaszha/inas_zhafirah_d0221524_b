@@ -1,0 +1,4 @@
+/Write your code here
+   //String s = ""+n;
+   //String s = Integer.toString(n);
+   String s = String.valueOf(n);
